@@ -106,7 +106,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="68dp"
-        android:text="The armed conflict between the Saudi-led coalition and the Houthi armed group as well as the humanitarian crisis has contributed to creating unspeakable suffering for millions of civilians. The conflict has killed and injured thousands of civilians. The coalition has conducted scores of indiscriminate and disproportionate airstrikes hitting civilian objects in violation of the laws of war, using munitions sold by the United States, United Kingdom, and others. Houthi forces have used banned antipersonnel landmines and fired artillery"
+        android:text="@string/article"
         app:layout_constraintBottom_toTopOf="@+id/button2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
